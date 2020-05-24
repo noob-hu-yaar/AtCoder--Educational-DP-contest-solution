@@ -11,6 +11,7 @@ using namespace std;
 
 int main()
 {
+    fast_io;
     ll ro,co;
     cin>>ro>>co;
     ll mod = 1e9+7;
