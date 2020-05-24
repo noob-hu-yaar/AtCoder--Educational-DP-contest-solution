@@ -32,6 +32,7 @@ ll length(string& s,string& t,ll i,ll j)
 
 int main()
 {
+   fast_io;
     string s,t;
     cin>>s>>t;
      memset(dp,-1,sizeof(dp));
