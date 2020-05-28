@@ -16,3 +16,8 @@ I am Listing below the concepts I have used whilst solving the questions.
 | Deque  | Game Theory and Multi-dimensional DP  |
 | Candies  | Multidimensional DP optimisation |
 | Slimes  | DP over intervals  |
+| Matching  |   |
+| Independent Set |   |
+| Flowers  |   |
+| Walk  ||
+| Digit Sum  | Digit DP  |
