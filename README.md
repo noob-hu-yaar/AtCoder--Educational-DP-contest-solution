@@ -14,5 +14,5 @@ I am Listing below the concepts I have used whilst solving the questions.
 | Sushi  | Expected Value DP, Mathematics  |
 | Stones  | Game Theory and DP  |
 | Deque  | Game Theory and Multi-dimensional DP  |
-| Candies  |  |
+| Candies  | Multidimensional DP optimisation |
 | Slimes  | DP over intervals  |
