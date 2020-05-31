@@ -55,7 +55,8 @@ int main()
     int res = (ans%mod)-1;
     
     //res =0 ? cout<<res : cout<<0;
-  res == -1 ? cout<<mod-1 : cout<<res;
+  //res == -1 ? cout<<mod-1 : cout<<res;
+    cout<<( mod + ans - 1)%mod;
     cout<<endl;
     return 0;
 }
